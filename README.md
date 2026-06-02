@@ -61,7 +61,7 @@ This project presents an interactive Retail Store Performance Dashboard develope
 
 ## Dashboard Preview
 
-Dashboard.png
+![Retail Store Performance Dashboard](Dashboard.png)
 
 ## Files Included
 
